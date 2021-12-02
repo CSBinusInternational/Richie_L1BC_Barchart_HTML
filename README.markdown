@@ -1,6 +1,3 @@
-# graph Titanic
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Leonardorichie/pen/xxLoQXj](https://codepen.io/Leonardorichie/pen/xxLoQXj).
-
-
-https://leonardorichie.github.io/HCI-Dashboard-Website/
+# RICHIE_L1BC_BARCHART_HTML
+Here is my dashboard website for the assignment
+live Website: https://leonardorichie.github.io/HCI-Dashboard-Website/
